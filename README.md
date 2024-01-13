@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in Ratchaburi
 * ✉️  You can contact me at [sskjj0547@gmail.com](mailto:sskjj0547@gmail.com)
-* 🧠  I'm learning OOP Javascript
+* 🧠  I'm learning SQL
 * 🤝  I'm open to collaborating on Projects
 
 <a href="https://www.github.com/Artorn25" target="_blank" rel="noreferrer"><img
