@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================================
 
 * 🌍  I'm based in Ratchaburi
-* ✉️  You can contact me at [artorn.dam@gmail.com](mailto:artorn.damn@gmail.com)
+* ✉️  You can contact me at [artorn.damn@gmail.com](mailto:artorn.damn@gmail.com)
 * 🧠  I'm reviewing the lesson 
 * 🤝  I'm open to collaborating on Projects
 
