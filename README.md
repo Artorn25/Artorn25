@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artorn Damnoenudomkan</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/500242/screenshots/3047152/media/e0ea6869f9f5971638b3d2bec69b0c40.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=artorn45&label=Profile%20views&color=0e75b6&style=flat" alt="artorn45" width='125' height='30'/> 
 <a href="https://www.github.com/Artorn25" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/Artorn25?logo=github&style=for-the-badge&color=22c55e&labelColor=000000"/></a>
 </p>
