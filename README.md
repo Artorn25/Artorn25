@@ -8,7 +8,7 @@
 
 - 🔭 I'm based in **Ratchaburi**
 
-- 🌱 I’m currently learning **Data Science & Computer Vision**
+- 🌱 I’m currently learning **Full Stack Web Application**
 
 - 🤝 I'm open to collaborating on **Projects**
 
