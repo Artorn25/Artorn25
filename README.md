@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋 Dev everyone to come see my profile</h1>
-<h2>I'm Artorn Damnoenudomkan</h2>
                                                                                                             
 <img align="right" width="400" src="https://cdn.dribbble.com/users/500242/screenshots/3047152/media/e0ea6869f9f5971638b3d2bec69b0c40.gif">
 
@@ -8,7 +7,7 @@
 
 - 🔭 I'm based in **Ratchaburi**
 
-- 🌱 I’m currently learning **Full Stack Web Application**
+- 🌱 I’m currently learning **AWS S3**
 
 - 🤝 I'm open to collaborating on **Projects**
 
