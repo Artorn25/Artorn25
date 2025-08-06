@@ -15,7 +15,7 @@
 ### 🔍 About Me
 
 - 🔭 Based in **Ratchaburi, Thailand**
-- 🌱 Currently learning **TypeScript** and modern web technologies
+- 🌱 Currently learning **Python Framework Django** and modern web technologies
 - 🤝 Open to collaborate on **projects and innovative ideas**
 - 💬 Feel free to ask about **my work** or share cool recommendations!
 - 📫 Reach me at: **artorn.damn@gmail.com**
@@ -40,6 +40,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase)
