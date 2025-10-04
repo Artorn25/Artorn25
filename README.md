@@ -15,7 +15,7 @@
 ### 🔍 About Me
 
 - 🔭 Based in **Ratchaburi, Thailand**
-- 🌱 Currently learning **Python Framework Django** and modern web technologies
+- 🌱 Currently learning **Kubernates** and modern web technologies
 - 🤝 Open to collaborate on **projects and innovative ideas**
 - 💬 Feel free to ask about **my work** or share cool recommendations!
 - 📫 Reach me at: **artorn.damn@gmail.com**
