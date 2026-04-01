@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/500242/screenshots/3047152/media/e0ea6869f9f5971638b3d2bec69b0c40.gif" width="400" />
+  <img src="https://media.tenor.com/PA19Bh1MyOoAAAAM/enel.gif" width="400" />
 </p>
 
 ---
@@ -15,7 +16,7 @@
 ### 🔍 About Me
 
 - 🔭 Based in **Ratchaburi, Thailand**
-- 🌱 Currently learning **Kubernates** and modern web technologies
+- 🌱 Currently learning **Go** and framework backend
 - 🤝 Open to collaborate on **projects and innovative ideas**
 - 💬 Feel free to ask about **my work** or share cool recommendations!
 - 📫 Reach me at: **artorn.damn@gmail.com**
